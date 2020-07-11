@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/daimonitor/static/css/main.5f361e03.chunk.css",
+    "main.js": "/daimonitor/static/js/main.7115e20d.chunk.js",
+    "main.js.map": "/daimonitor/static/js/main.7115e20d.chunk.js.map",
+    "runtime-main.js": "/daimonitor/static/js/runtime-main.9bb0ae16.js",
+    "runtime-main.js.map": "/daimonitor/static/js/runtime-main.9bb0ae16.js.map",
+    "static/js/2.c6d361c3.chunk.js": "/daimonitor/static/js/2.c6d361c3.chunk.js",
+    "static/js/2.c6d361c3.chunk.js.map": "/daimonitor/static/js/2.c6d361c3.chunk.js.map",
+    "index.html": "/daimonitor/index.html",
+    "precache-manifest.21ec495ca6e6ced953fd013ff21e8b7d.js": "/daimonitor/precache-manifest.21ec495ca6e6ced953fd013ff21e8b7d.js",
+    "service-worker.js": "/daimonitor/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/daimonitor/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c6d361c3.chunk.js.LICENSE.txt": "/daimonitor/static/js/2.c6d361c3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bb0ae16.js",
+    "static/js/2.c6d361c3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.7115e20d.chunk.js"
+  ]
+}
