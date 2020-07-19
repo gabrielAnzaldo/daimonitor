@@ -1,3 +1,3 @@
 # daiMonitor
 
-ATR perro cumbia cajeteala piola gato!
+Create alarms to monitor DAI price in different exchanges based in argentina.
