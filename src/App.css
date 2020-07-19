@@ -1,7 +1,14 @@
 @import '~antd/dist/antd.css';
 
-main {
+body {
   padding: 2rem;
+}
+h1 {
+  text-align: center;
+}
+.home-page {
+  display: flex;
+  justify-content: center;
 }
 .steps-content {
   margin: 16px 0;
